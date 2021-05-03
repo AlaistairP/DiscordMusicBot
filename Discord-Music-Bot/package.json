@@ -13,9 +13,9 @@
   "author": "Alaistair Preece",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AlaistairP/kosmo-tunes/issues"
+    "url": "https://github.com/AlaistairP/DiscordMusicBot"
   },
-  "homepage": "https://github.com/AlaistairP/kosmo-tunes#readme",
+  "homepage": "https://github.com/AlaistairP/DiscordMusicBot",
   "dependencies": {
     "@discordjs/opus": "^0.5.0",
     "discord-player": "^3.4.0",
